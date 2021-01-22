@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj": {}
+    "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj": {
+    "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj",
+        "projectUniqueName": "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj",
         "projectName": "Security.Domain",
-        "projectPath": "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj",
+        "projectPath": "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\Security.Domain.csproj",
         "packagesPath": "C:\\Users\\diegod\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\obj\\",
+        "outputPath": "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diegod\\AppData\\Roaming\\NuGet\\NuGet.Config",

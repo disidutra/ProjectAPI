@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZjOy5+lpWYtgu23RNVxW+roMnw8xVNCp+ZNBIBSkjmS3BaRT2/p5Pa1uk+iE0RGpzmtNLbGV3xtwA/R4FoGtBg==",
+  "dgSpecHash": "PiB4pUikD2rmNNSx7lMgAMWdKKEKQU8MdJsfiz3tST0WIZNoMuI29Zix+Vz77CD9JympYdH8wlAH4h3q1C1Lsg==",
   "success": true,
-  "projectFilePath": "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Service\\Security.Service.csproj",
+  "projectFilePath": "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.Service\\Security.Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\SecurityAPI.csproj",
+      "projectUniqueName": "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.API\\SecurityAPI.csproj",
       "projectName": "SecurityAPI",
-      "projectPath": "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\SecurityAPI.csproj",
+      "projectPath": "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.API\\SecurityAPI.csproj",
       "packagesPath": "C:\\Users\\diegod\\.nuget\\packages\\",
-      "outputPath": "C:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\obj\\",
+      "outputPath": "c:\\Diego\\DiegoGit\\ProjectApi\\SecurityAPI\\Security.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diegod\\AppData\\Roaming\\NuGet\\NuGet.Config",
